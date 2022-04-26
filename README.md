@@ -13,7 +13,9 @@ For training i used transfer learning on **ssd_mobilenet_v2_fpnlite_320x320_coco
 
 I got the model from **[TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md#tensorflow-2-detection-model-zoo)** and trained it using tensorflow object detection api.  
 
-You can check out their **[Documentation](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/)** and their github **[repository](https://github.com/tensorflow/models)**
+You can check out their **[Documentation](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/)** and their github **[repository](https://github.com/tensorflow/models)**  
+
+<img src="https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/Untitled.png" width="700" height="400" />
 
 
 
