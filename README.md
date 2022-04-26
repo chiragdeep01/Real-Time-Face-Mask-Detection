@@ -8,6 +8,6 @@ After that I again used [opencv](https://opencv.org/) library to convert these i
 
 Then i used [labelImg](https://github.com/tzutalin/labelImg) which is a great graphical image annotation tool. You should definitely check it out.  
 ![App Screenshot](https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/2.png)
-<img src="https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/2.png" width="400" height="400" />
+<img src="https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/2.png" width="800" height="600" />
 
 
