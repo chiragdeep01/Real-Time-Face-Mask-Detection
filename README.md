@@ -22,7 +22,9 @@ At first the performance was not good so i tried different things such as:
 
 - Training on different models.  
 - Changing the number of iterations.
-- The thing that most helped was implementing changes to the dataset.  
+- The thing that most helped was implementing changes to the dataset. 
+
+# Demo
 
 https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/20220426185032_8PV5kzgJ.mp4
 
