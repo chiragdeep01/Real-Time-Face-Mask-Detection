@@ -22,7 +22,11 @@ At first the performance was not good so i tried different things such as:
 
 - Training on different models.  
 - Changing the number of iterations.
-- The thing that most helped was implementing changes to the dataset.
+- The thing that most helped was implementing changes to the dataset.  
+
+
+https://user-images.githubusercontent.com/64598746/151703865-49307071-0f50-44ef-aced-ee869d508a7f.mp4
+
 
 
 
