@@ -26,7 +26,8 @@ At first the performance was not good so i tried different things such as:
 
 # Demo
 
-https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/20220426185032_8PV5kzgJ.mp4
+https://user-images.githubusercontent.com/85057931/165311839-e5c6fd8b-0537-43e1-bae1-833cc3983b76.mp4
+
 
 
 
