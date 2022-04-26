@@ -15,7 +15,14 @@ I got the model from **[TensorFlow 2 Detection Model Zoo](https://github.com/ten
 
 You can check out their **[Documentation](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/)** and their github **[repository](https://github.com/tensorflow/models)**  
 
-<img src="https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/Untitled.png" width="700" height="400" />
+<img src="https://github.com/chiragdeep01/Real-Time-Face-Mask-Detection/blob/master/readme_ss/Untitled.png" width="700" height="400" />  
+
+# Tuning  
+At first the performance was not good so i tried different things such as:  
+
+- Training on different models.  
+- Changing the number of iterations.
+- The thing that most helped was implementing changes to the dataset.
 
 
 
